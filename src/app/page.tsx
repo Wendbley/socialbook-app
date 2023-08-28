@@ -1,10 +1,15 @@
+import MainContainder from "@/components/MainContainer";
+import Rightbar from "@/components/Rightbar";
+import Sidebar from "@/components/Sidebar";
 
-import styles from './page.module.css'
+
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      
+    <main className='container'>
+      <Sidebar/>
+      <MainContainder/>
+      <Rightbar/>
     </main>
   )
 }

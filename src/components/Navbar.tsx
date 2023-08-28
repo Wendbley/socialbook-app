@@ -39,7 +39,7 @@ const Navbar = () => {
 		<nav>
 			<div className='nav-left'>
 				<a href='/'>
-					<Image src={logo} alt='logo' className='logo' width={160} priority={true}/>
+					<Image src={logo} alt='logo' className='logo'  priority={true}/>
 				</a>
 
 				<ul className='nav-links'>

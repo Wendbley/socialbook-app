@@ -64,6 +64,7 @@ import status4 from './status-4.png'
 import status5 from './status-5.png'
 import upload from './upload.png'
 import video from './video.png'
+import watch from './watch.png'
 
 export {
     addFriends,
@@ -131,5 +132,6 @@ export {
     status4,
     status5,
     upload,
-    video
+    video,
+    watch
 }
