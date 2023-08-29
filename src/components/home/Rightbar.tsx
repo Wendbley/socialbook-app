@@ -3,9 +3,11 @@
 
 import React from 'react'
 import Image from 'next/image'
-import { advertisement } from '../../public/images'
+
 import { Members } from '@/app/constants'
 import { FaMapMarkerAlt } from 'react-icons/fa'
+import { advertisement } from '../../../public/images'
+import './../index.css'
 
 /**
  *

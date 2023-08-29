@@ -2,8 +2,9 @@
 
 import React from 'react'
 import Image from 'next/image'
-import { friends, group, marketplace, news, shortcut1, shortcut2, shortcut3, shortcut4, watch } from '../../public/images'
-import './index.css'
+
+import './../index.css'
+import { friends, group, marketplace, news, shortcut1, shortcut2, shortcut3, shortcut4, watch } from '../../../public/images'
 
 const Sidebar = () => {
 	return (

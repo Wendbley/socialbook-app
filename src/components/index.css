@@ -362,7 +362,7 @@ nav .logo{
     display: flex;
     align-items: center;
 }
-.user-profile .img{
+.user-profile img{
     height: auto;
     width: 45px;
     border-radius: 50%;
@@ -520,6 +520,7 @@ text-decoration: none;
     }
     .story img{
         width: 20px;
+        height: auto;
         border-width: 3px;
     }
     .story p{

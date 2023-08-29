@@ -2,9 +2,11 @@
 
 import React from 'react'
 import Image from 'next/image'
-import { feeling, liveVideo, photo, profile } from '../../public/images'
+
 import { AiOutlineCaretDown } from 'react-icons/ai'
-import './index.css'
+
+import './../index.css'
+import { feeling, liveVideo, photo, profile } from '../../../public/images'
 
 const WritePost = () => {
 	return (

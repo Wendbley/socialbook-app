@@ -14,11 +14,11 @@ import {
 	status4,
 	status5,
 	upload,
-} from '../../public/images'
+} from '../../../public/images'
 import { Posts } from '@/app/constants'
 import WritePost from './WritePost'
 import PostContainer from './PostContainer'
-import './index.css'
+import './../index.css'
 
 const MainContainder = () => {
 	return (

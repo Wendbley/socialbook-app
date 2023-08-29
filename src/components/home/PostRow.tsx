@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
 import { AiOutlineCaretDown } from 'react-icons/ai'
-import { comments, like, profile, share } from '../../public/images'
-import './index.css'
+import './../index.css'
+import { comments, like, profile, share } from '../../../public/images'
 
 /**
  * 
