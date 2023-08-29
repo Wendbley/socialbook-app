@@ -10,7 +10,7 @@
     --nav-color: #1876f2;
     --bg-color: #fff;
     --primary-color: #edf2fc;
-    --seconday-color: #212121;
+    --secondary-color: #212121;
 }
 
 *, *::before, *::after{
@@ -24,6 +24,7 @@ body{
     --body-color: #0a0a0a;
     --nav-color: #000;
     --bg-color: #000;
+    --text-color: #fff;
 }
 .img{
     max-width: 100%;
