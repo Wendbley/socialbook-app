@@ -25,7 +25,7 @@ body{
     --bg-color: #000;
     --text-color: #fff;
 }
-.img{
+img{
     max-width: 100%;
     display: block;
 }

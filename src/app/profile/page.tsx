@@ -1,12 +1,11 @@
 import React from 'react'
 import { cover } from '../../../public/images'
 import Image from 'next/image'
+
 import './profile.css'
-import Details from '@/components/profile/details'
+import Details from '@/components/profile/Details'
 import ProfileInfo from '@/components/profile/ProfileInfo'
-import WritePost from '@/components/home/WritePost'
-import { Posts } from '../constants'
-import PostContainer from '@/components/home/PostContainer'
+
 
 const Profile = () => {
 	return (
